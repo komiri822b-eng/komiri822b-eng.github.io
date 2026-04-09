@@ -47,3 +47,9 @@ aside {
   flex: 1;
   padding: 1rem;
 }
+
+footer{
+    flex: auto;
+    padding: 1rem;
+    background-color: gray;
+}
