@@ -6,6 +6,7 @@ body{
     height: 720px;
     display: flex;
     flex-direction: column;
+    font-family: Roboto;
 }
 nav{
     display: flex;
