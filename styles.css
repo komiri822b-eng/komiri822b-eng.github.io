@@ -33,7 +33,6 @@ button{
 
 }
 button:hover{
-    background-color: aliceblue;
     border: aliceblue 5px;
     color: rgb(59, 58, 58);
 
