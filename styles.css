@@ -35,6 +35,7 @@ button{
 button:hover{
     border: aliceblue 5px;
     color: aliceblue;
+    background-color: transparent;
 }
 
 section {
