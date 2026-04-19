@@ -43,6 +43,8 @@ section {
     flex-direction: row;
     flex: 1;
     padding: 1rem;
+    max-width: 1920px;
+
 }
 
 article {
